@@ -1,0 +1,6 @@
+﻿  dec_main.c
+c:\users\jinji\documents\visual studio 2015\projects\nonce_reusing_dec\nonce_reusing_dec\hash_salsa.h(28): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinji\documents\visual studio 2015\projects\nonce_reusing_dec\nonce_reusing_dec\hash_salsa.h(14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jinji\documents\visual studio 2015\projects\nonce_reusing_dec\nonce_reusing_dec\dec_main.c(14): warning C4101: 'x2' :참조되지 않은 지역 변수입니다.
+c:\users\jinji\documents\visual studio 2015\projects\nonce_reusing_dec\nonce_reusing_dec\dec_main.c(62): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  NONCE_REUSING_DEC.vcxproj -> C:\Users\jinji\Documents\Visual Studio 2015\Projects\NONCE_REUSING_DEC\Debug\NONCE_REUSING_DEC.exe
